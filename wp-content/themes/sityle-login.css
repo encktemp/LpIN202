@@ -1,0 +1,11 @@
+#login{background:#406184;width:360px!important;padding:5px!important;margin:0 auto;margin-top:6px!important;border:10px solid #fdfdfd;box-shadow:1px 1px 3px #a7a7a7}
+.login h1 a{height:40px!important;background-size:170px!important;background-position:center top;background-repeat:no-repeat;margin:0 auto;padding:0;margin-bottom:5px;width:170px!important;text-indent:-9999px;outline:0;display:block}
+.login #backtoblog a,.login #nav a{padding:2px 15px 5px;font-size:16px;border:1px solid #f7f7f7;margin:0 5px;background:#d9e5e8;border-radius:3px}
+.login form{margin-top:10px;margin-left:0;padding:5px 25px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.13)}
+.login form .input,.login form input[type=checkbox],.login input[type=text]{background:#fbfbfb;border:1px solid #bdbdbd}
+.login form .input,.login input[type=text]{font-size:16px;width:100%;padding:5px;margin:2px 6px 16px 0}
+.login .privacy-policy-page-link{text-align:center;width:95%;margin:30px 0 5px;text-align:right}
+.login .privacy-policy-page-link a{text-decoration:none}
+.login #nav{font-size:13px;padding:0 10px}
+.login #backtoblog{padding:0 10px}
+.login .message,.login .success{border-left:4px solid #eee;padding:12px;margin-left:0;margin-bottom:15px;background-color:#f5f5f5;box-shadow:0 1px 1px 0 rgba(0,0,0,.1);font-size:15px;font-weight:700;color:#666699}
